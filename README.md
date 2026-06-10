@@ -54,6 +54,7 @@ ESP32_CAR
 5. Upload the code.
 6. Pair phone with ESP32_CAR.
 7. Send commands using any Bluetooth terminal application.
+8. application link - https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control
 
 ## Future Improvements
 
@@ -63,7 +64,3 @@ ESP32_CAR
 - Voice Control
 - Mobile App Interface
 - FPV Camera Support
-
-## License
-
-MIT License
